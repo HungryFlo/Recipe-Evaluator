@@ -3,6 +3,6 @@
 .ipr
 .iws
 
-.ui
+*.ui
 
 out/
